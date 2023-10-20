@@ -10,6 +10,8 @@ Drivers:
 X,Y,Z,E2: TMC2208_Standalone
 E0,E1: LV8729
 
+x_bed_size 235
+
 Pid Autotune Menu with Manual Editing (Hotend and bed)
 Accel/feedrate/junction deviation tuning
 S curve acceleration
