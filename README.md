@@ -1,5 +1,6 @@
 # A20M-Marlin2.1.x
 Geeetech A20M 3D printer Marlin-bugfix-2.1.x firmware
+with ZsYong 2 in 1 Hotend
 
 Features:
 
@@ -31,7 +32,7 @@ Arc Weld support
 Quick homing
 Advanced print pausing
 improved filament change
-ABL specifics:
+BL Touch ABL specifics:
 Z homing uses probe only
 Faster and accurate probing pattern (5x5 still)
 High Speed Mode
